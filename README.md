@@ -34,9 +34,9 @@ We, the project team members, certify that below is an accurate account of the p
 
 | Project Team Member  | Percentage of Total Effort |
 |----------------------|----------------------------|
-| Guilherme Camara     |                            |
-| Luis Infante         |                            |
-| Matthew Labrada      |                            |
-| Daisy Trejo-Hernandez|                            |
+| Guilherme Camara     |             25%            |
+| Luis Infante         |             25%            |
+| Matthew Labrada      |             25%            |
+| Daisy Trejo-Hernandez|             25%            |
 
 **Note**: Although the project guidelines mention using R, our analysis was conducted using Python due to our collective proficiency and the powerful libraries available for data analysis in Python.
